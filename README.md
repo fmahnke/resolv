@@ -1,7 +1,7 @@
 # resolv
 Parse resolv.conf in node.js
 
-Requiring and executing this model stores the info in resolv.conf to a
+Requiring and executing this module stores the info in resolv.conf to a
 JavaScript object.
 
 ```shell
