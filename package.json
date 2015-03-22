@@ -1,0 +1,19 @@
+{
+  "name": "resolv",
+  "version": "1.0.0",
+  "description": "Parse resolv.conf in node.js",
+  "main": "resolv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmahnke/resolv.git"
+  },
+  "author": "Fritz Mahnke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmahnke/resolv/issues"
+  },
+  "homepage": "https://github.com/fmahnke/resolv"
+}
